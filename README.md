@@ -1,4 +1,4 @@
-# Physics-Computational-Methods
+# 'Physics Computational Methods' course
 
 ### Laboratory 1 - Introduction
    - [**Exported Notebook**](/lab01/lab1.pdf) (`.pdf`)
@@ -45,7 +45,7 @@
    - [Mathematica Notebook source code](/lab09/lab9.nb) (`.nb`)
    - [Instructions](/lab09/lab9-instructions.pdf) (`.pdf`)
 
-### Final Project
+### [Final Project](/project/)
    - [**Thesis**](/project/Problem-Trzech-Ciał.pdf) (`.pdf`)
    - Results:
      - [Simulation 1](/project/results/gif/simulation1.gif) (`.gif`)

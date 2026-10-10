@@ -44,3 +44,15 @@
    - [**Exported Notebook**](/lab09/lab9.pdf) (`.pdf`)
    - [Mathematica Notebook source code](/lab09/lab9.nb) (`.nb`)
    - [Instructions](/lab09/lab9-instructions.pdf) (`.pdf`)
+
+### Final Project
+   - [**Thesis**](/project/Problem-Trzech-Ciał.pdf) (`.pdf`)
+   - Results:
+     - [Simulation 1](/project/results/gif/simulation1.gif) (`.gif`)
+     - [Simulation 2](/project/results/gif/simulation2.gif) (`.gif`)
+     - [Simulation 3](/project/results/gif/simulation3.gif) (`.gif`)
+     - [Simulation 4](/project/results/gif/simulation4.gif) (`.gif`)
+     - [Simulation 5](/project/results/gif/simulation5.gif) (`.gif`)
+     - [Simulation 6](/project/results/gif/simulation6.gif) (`.gif`)
+   - [Mathematica Notebook source code](/project/project.nb) (`.nb`)
+   - [Thesis LaTeX source code](/project/tex/) (`.tex`)
